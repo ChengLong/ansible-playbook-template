@@ -1,5 +1,6 @@
 ---
-- hosts: all
+- hosts: 127.0.0.1 # to run play locally
+  connection: local # to run play locally
   roles:
     - role: ChengLong.vim
     - role: ChengLong.zsh
