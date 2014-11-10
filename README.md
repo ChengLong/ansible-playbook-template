@@ -1,7 +1,7 @@
-Ansible Seed
+Ansible Playbook Template 
 ---
 
-This is a tempalte playbook to get you started using Ansible to config your boxes. 
+This is a playbook template to get you started using Ansible to config your boxes. 
 
 Usage
 ---
